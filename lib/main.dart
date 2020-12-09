@@ -1,4 +1,5 @@
-import 'package:BlocPatterLearning/second-way/ui/counter_ui.dart';
+// import 'package:BlocPatterLearning/second-way/ui/counter_ui.dart';
+import 'package:BlocPatterLearning/third-way/ui/counter_ui.dart';
 import 'package:flutter/material.dart';
 
 void main() {
